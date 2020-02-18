@@ -1,0 +1,5 @@
+python-etcd
+Flask
+flask-jwt-extended
+passlib
+pika
