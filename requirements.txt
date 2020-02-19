@@ -1,5 +1,8 @@
+python-dotenv
+
 python-etcd
 Flask
 flask-jwt-extended
 passlib
 pika
+Flask-WTF
